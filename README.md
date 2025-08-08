@@ -2,7 +2,7 @@
  A complete SQL project with schema creation, sample data, and advanced queries using employees, branches, clients, and suppliers.
 # SQL Practice Project
 
-📌 A complete SQL practice project with schema creation, sample data, and advanced queries using employees, branches, clients, and suppliers.
+
 
 ## 📁 Contents
 - `practice_schema.sql` – SQL schema, data inserts, and queries
